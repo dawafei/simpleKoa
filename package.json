@@ -1,0 +1,23 @@
+{
+  "name": "simplekoa",
+  "version": "1.0.0",
+  "description": "koa2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feiGod/simpleKoa.git"
+  },
+  "keywords": [
+    "koa2",
+    "simple"
+  ],
+  "author": "gaofei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feiGod/simpleKoa/issues"
+  },
+  "homepage": "https://github.com/feiGod/simpleKoa#readme"
+}
